@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/journey-smooth.gif" width="600" alt="A quiet journey through forests, mountains and the coast. Small glimpses of Oviedo, San Sebastián and Barcelona, from morning into night." />
+  <img src="./assets/journey.webp" width="600" alt="A quiet journey through forests, mountains and the coast. Small glimpses of Oviedo, San Sebastián and Barcelona, from morning into night." />
 </p>
 
 I make tools I want to use. Mostly terminals, media, and things that run on my own machine.
