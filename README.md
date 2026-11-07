@@ -10,6 +10,8 @@ I make tools I want to use. Mostly terminals, media, and things that run on my o
 
 [projects](https://github.com/bilalyazicioglu?tab=repositories)
 
+[blog](https://bilalyazicioglu.com/blog)
+
 ### Elsewhere
 
 <p>
